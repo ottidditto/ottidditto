@@ -1,4 +1,11 @@
-## Hi there 👋
+## 프로필 👋
+
+![Static Badge](https://img.shields.io/badge/Badge-Test-blue)
+<img src="https://img.shields.io/badge/Godot Engine-478CBF?style=flat&logo=Godot Engine&logoColor=white"/>
+
+프로필 테스트 중
+
+
 
 <!--
 **aster-2048/aster-2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
