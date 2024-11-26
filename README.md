@@ -3,8 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/Badge-Test-blue)
 <img src="https://img.shields.io/badge/Godot Engine-478CBF?style=flat&logo=Godot Engine&logoColor=white"/>
 
-[Blog](https://aster-2048.github.io)
-
 프로필 작성 중
 
 
